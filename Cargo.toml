@@ -1,0 +1,7 @@
+[package]
+name = "day1-rust"
+version = "0.1.0"
+authors = ["aoc2020"]
+edition = "2018"
+
+[dependencies]
